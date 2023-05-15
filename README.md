@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FreeBogone
-- 👀 I’m interested in ... C++ for school, and Python programming for visualizing Data
-- 🌱 I’m currently learning ... C++ and Python
-- 📫 How to reach me ...
+- 👀 I’m interested in ... C# for school and creating WebApps for personal use
+- 🌱 I’m currently learning ... C#, SQL, and Python
+- 📫 How to reach me ... botruelove2002@gmail.com
 
 <!---
 FreeBogone/FreeBogone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
